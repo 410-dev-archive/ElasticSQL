@@ -10,8 +10,7 @@ MySQL / MariaDB
 
 Table format:
 
-id                          | data          | indexes
-(Unique, INT)        | (TEXT)       | (TEXT)
+id (Unique, INT)   | data (TEXT)  | indexes (TEXT)
 
 
 
