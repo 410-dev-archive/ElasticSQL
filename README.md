@@ -2,6 +2,12 @@
 
 ## Freedom from columns in SQL
 
+### This project is no longer maintained.
+---------
+I noticed that although this type of database is good for DB structure maintenance, but is inefficient in searching.
+---------
+
+
 All data is stored as JSON format.
 
 ### Required Setup - Database
